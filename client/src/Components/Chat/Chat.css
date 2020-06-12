@@ -1,0 +1,11 @@
+.chat_container{
+    background-color: white;
+    height: 100%;
+    position: relative;
+    width: 400px;
+}
+
+.chat_inner_container{
+    height: 460px;
+    position: relative;
+}

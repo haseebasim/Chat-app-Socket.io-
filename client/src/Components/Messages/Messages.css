@@ -1,0 +1,7 @@
+.messages_container{
+    display: grid;
+    padding: 5px;
+    max-height: 380px ;
+    overflow-y: scroll;
+    position: relative;
+}

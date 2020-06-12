@@ -1,0 +1,30 @@
+.input_form{
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.input_field{
+    padding: 8px;
+    width: 100%;
+    border: 1px solid #5d5d5a;
+    transition: all .5s ease ;
+}
+
+.input_field:focus{
+    border: 1px solid #ffa45c;
+}
+
+.input_btn{
+    padding: 8px 20px;
+    border: none;
+    background:#ffa45c;
+    color: white;
+    cursor: pointer;
+    transition: all .5s ease;
+}
+
+.input_btn:hover{
+    background-color: black;
+}

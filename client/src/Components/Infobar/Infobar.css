@@ -1,0 +1,29 @@
+.infobar{
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+    height: 40px;
+    background-color: #FFA45C;
+}
+
+.fa-circle{
+    padding: 0 5px;
+    color: #5D5D5A;
+    font-size: small;
+}
+
+.room_name{
+    padding: 0 5px;
+    color: #5D5D5A;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.close_link{
+    color: #5D5D5A;
+    float: right;
+    padding-right: 10px;
+}
+
+

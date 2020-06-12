@@ -1,0 +1,31 @@
+.message_container{
+    background-color: #ffa45c;
+    color: white;
+    width: fit-content;
+    padding: 0 10px;
+    border-radius: 5px;
+    height: fit-content;
+    margin-bottom: 10px;
+}
+
+.message_name{
+    font-size: 12px;
+    font-weight: bold;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.message_text{
+    font-size: 20px;
+}
+
+.message_container_other{
+    float:right;
+    background-color: #5d5d5a;
+    color: white;
+    width: fit-content;
+    padding: 0 10px;
+    border-radius: 5px;
+    height: fit-content;
+    margin-bottom: 10px;
+}
